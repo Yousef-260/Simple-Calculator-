@@ -1,4 +1,4 @@
-A program written in C++ that represents the performance of the four basic operations in a calculator to apply the basic concepts in this language.
+
 
 #include <iostream>
 using namespace std;
